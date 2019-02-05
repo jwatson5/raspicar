@@ -1,0 +1,22 @@
+{
+  "name": "raspicar",
+  "version": "1.0.0",
+  "description": "Raspberry Pi Automotive Dash",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwatson5/raspicar.git"
+  },
+  "author": "Jason Watson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwatson5/raspicar/issues"
+  },
+  "homepage": "https://github.com/jwatson5/raspicar#readme",
+  "dependencies": {
+    "pigpio": "latest"
+  }
+}
